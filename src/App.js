@@ -5,8 +5,7 @@ function App() {
     <div className="App">
       <div className="header">
           <h1 className="logo">
-            <img src="/logo192.png" />
-            {/*<img src="https://picsum.photos/60/40?random=1" />*/}
+            <img src="https://picsum.photos/60/40?random=1" />
           </h1>
           <div className="menu-btn">
 
